@@ -1,0 +1,3 @@
+Los mejores scores de R2 los hemos obtenido utilizando One Hot Encoding y los notebook de endogena y exogenas.
+En la tienda 1 hemos obtenido un R2 en test de un 90,4% y en la tienda 2 un R2 en test de un 80%.
+Ponemos tambien los notebooks realizados utilizando embeddings.
